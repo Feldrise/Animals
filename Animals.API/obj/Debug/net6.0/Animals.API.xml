@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Animals.API</name>
+    </assembly>
+    <members>
+        <member name="M:Animals.API.Controllers.NoisesController.GetAll">
+            <summary>
+            Récupère tous les bruits d'animaux
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Animals.API.Controllers.NoisesController.GetRandomNoise">
+            <summary>
+            Récupère un bruit d'animal aléatoirement
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
