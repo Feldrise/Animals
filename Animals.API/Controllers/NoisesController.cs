@@ -15,6 +15,9 @@ namespace Animals.API.Controllers
             new AnimalNoise { EmitingAnimal = "Chèvre", Noise = "Meeh", Gif = "https://media.tenor.com/b49RbivGBtMAAAAC/meh-goat.gif" },
             new AnimalNoise { EmitingAnimal = "Vache", Noise = "Mooo", Gif = "https://media.tenor.com/HrQjb0uaON8AAAAC/cow-wig.gif"},
             new AnimalNoise { EmitingAnimal = "Oiseau", Noise = "Ca-caw", Gif = "https://media.tenor.com/AGK60H059oIAAAAC/crow-bird.gif" },
+            new AnimalNoise { EmitingAnimal = "Lion", Noise = "Roar", Gif = "https://media.tenor.com/ygbVPyPR9skAAAAC/wild-animals-lion.gif" },
+            new AnimalNoise { EmitingAnimal = "Cochon", Noise = "Oink", Gif = "https://media.tenor.com/Vo8jtpqSZFYAAAAd/pig-oink-oink.gif" },
+            new AnimalNoise { EmitingAnimal = "Canard", Noise = "Quack", Gif = "https://media.tenor.com/T7vgvOYwwGoAAAAC/quack-duck.gif" },
 /*            new AnimalNoise { EmitingAnimal = "Loup", Noise = "Ahouu" },
             new AnimalNoise { EmitingAnimal = "Cheval", Noise = "Hiii" },
 */
