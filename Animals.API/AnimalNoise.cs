@@ -5,5 +5,6 @@
         public string EmitingAnimal { get; set; } = "";
 
         public string Noise { get; set; } = "";
+        public string Gif { get; set; } = "";
     }
 }
